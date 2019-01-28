@@ -12,6 +12,6 @@ The Dataset is [Diabetes 130-US hospitals for years 1999-2008 Data Set](https://
 
 ## Contributions
 
-Movses Musaelian
-Revathi Bhuvaneswari
-Youfei Zhang
+* Movses Musaelian
+* Revathi Bhuvaneswari 
+* Youfei Zhang
