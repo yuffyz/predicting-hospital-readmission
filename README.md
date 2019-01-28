@@ -2,7 +2,7 @@
 
 This project aims to predict whether a diabetes patient will be readmitted within 30 days of discharge. Different machine learning models and ensemble methods are applied to train this data.
 
-The final chosen model is an ensemble of multinomial naive bayes, gradient boosting and random forest with around 60% recall for both class 1 and class 0. 
+The final chosen model is an ensemble of multinomial naive bayes, gradient boosting and random forest which achieved an around 60% recall for both class 1 and class 0. 
 
 
 ## Dataset 
