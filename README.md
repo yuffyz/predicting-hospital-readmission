@@ -1,4 +1,4 @@
-# Predicting Hospital Readmission Rates Using Machine Learning Algorithms
+# Predicting Hospital Readmission Rates
 
 This project aims to predict whether a diabetes patient will be readmitted within 30 days of discharge. Different machine learning models and ensemble methods are applied to train this data.
 
